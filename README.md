@@ -1,4 +1,5 @@
 # Pendrive-Bootavel-para-Linux-Zorin
+Atenção: Esse método é referível quando se possui o windows e deseja outro sistema.
 
 <h4># Baixar o Zorin OS: https://zorin.com/os/</h4>
  <p>- Entrar em "Download Zorin OS"<br>- Escolher qual versão é melhor e baixar</p>
